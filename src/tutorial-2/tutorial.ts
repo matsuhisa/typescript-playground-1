@@ -1,4 +1,4 @@
-let s ='foo'
+let s:string|null ='foo'
 console.log(typeof s)
 
 s = null
